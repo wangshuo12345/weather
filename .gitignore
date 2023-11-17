@@ -1,0 +1,3 @@
+# Project exclude paths
+/weather-api/target/
+/weather-service/target/
